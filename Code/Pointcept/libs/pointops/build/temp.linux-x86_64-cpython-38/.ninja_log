@@ -1,0 +1,11 @@
+# ninja log v5
+1	9082	1690813642641562293	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	862a4a20289b51c3
+0	9134	1690813642689562534	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	908eb541b7e6b271
+1	9525	1690813643085564525	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	20f5020f007f0196
+0	9584	1690813643145564826	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda.o	771aa2ea202be3d
+1	9629	1690813643189565046	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda.o	8002ba2340803244
+9087	17790	1690813651349606050	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda.o	1f5701b4f087ea3a
+9584	19293	1690813652853613606	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda.o	82e1143119bc59a5
+17791	27707	1690813661265655866	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	dd3b001b1c34ddba
+9526	33372	1690813666913684235	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	d02418792dcd18cd
+27707	34704	1690813668265691026	/home/yukun/Documents/Dissertation/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	4b0d711c47b66001
