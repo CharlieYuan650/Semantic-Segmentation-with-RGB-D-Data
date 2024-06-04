@@ -1,5 +1,5 @@
 # SemSeg
-Master Project: Semantic Segmentation of RGB-D data
+Master Project: Developed a Vision Transformer Model that recognizes 3D objects using RGB-D (points cloud) data gathered from VR headsets. The model is capable of delineating walkable areas and obstacles (e.g. wall or furniture) in real-time, ensuring a safer VR experience.
 
 ## Citation
 ```
